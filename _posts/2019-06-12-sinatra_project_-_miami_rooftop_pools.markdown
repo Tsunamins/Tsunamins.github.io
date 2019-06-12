@@ -30,10 +30,11 @@ Excellent, everything is setup and a little test to see that everything is in pl
 >    		"Hello World, Can this App Start?"
 >  	End 
 
-No. It can't start.
+Run shotgun in the terminal and...No. It can't start.
 
 ### Run shotgun…...and…...Shotgun Error, or shotgun related error.
 After researching this further, I could not run shotgun on windows, or windows as is, I needed Linux or a Linux emulated system in place.
+
 I had a ton of trouble with the learn in browser IDE, I thought no way I’m only working through the learn browser, I will go crazy and abandon my studies.  I almost set it up a week or so prior but held off, so, I decided to take out some extra time during my project and dual boot windows by installing linux and following a couple of setup instructions from learn.co help pages and setup guides (that is another blog post in itself).  It was something I would have to do later, so, all the better to get it set up in advance, and, I like it better!
 
 After getting the whole thing setup, including a few extra steps to get my wifi adapter working in Ubuntu/linux, I cloned my files, ran shotgun successfully and had a look at my ‘/’ route in the browser:
