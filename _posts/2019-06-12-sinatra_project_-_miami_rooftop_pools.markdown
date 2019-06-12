@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "Sinatra Project - Miami Rooftop Pools"
-date:       2019-06-12 14:59:25 +0000
+title:      "Sinatra Project: Miami Rooftop Pools"
+date:       2019-06-12 10:59:26 -0400
 permalink:  sinatra_project_-_miami_rooftop_pools
 ---
 
