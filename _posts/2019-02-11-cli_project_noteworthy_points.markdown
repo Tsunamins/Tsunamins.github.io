@@ -64,6 +64,9 @@ Or was it an en dash?  I’m not sure and I kind of find it upsetting there is s
 
 After all the various tricks and pondering of life my CLI project took I am glad to have experienced it.  There were several other stuck points possibly worth highlighting but these seemed the most useful and interesting.
 
+For a YouTube demonstration:  [https://youtu.be/IZuhB9wp3Wo](http://)
+
+For the GitHub repository: [https://github.com/Tsunamins/miami_venues.git](http://)
 
 
 
