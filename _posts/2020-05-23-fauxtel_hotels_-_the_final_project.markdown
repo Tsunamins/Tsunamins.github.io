@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Fauxtel Hotels - The Final Project"
-date:       2020-05-23 22:04:46 +0000
+date:       2020-05-23 18:04:47 -0400
 permalink:  fauxtel_hotels_-_the_final_project
 ---
 
@@ -32,4 +32,5 @@ I actually had wanted to do something like this for my javascript/rails project,
 Might be missing other integrations here and there is overall, a great deal more I wanted to incorporate, which I probably will in the near future.  In particular, my plans are to generate reservation codes via a gem available for rails and allow a user to make a reservation without logging in.  I have an interest in incorporating a payment system, airline fares or at least trends and perhaps the “local” weather.  Also wanted to dabble more in React native and would like to do a small mobile app as a companion to this web app that perhaps allows mobile check in and, in theory, door unlocking.  So perhaps these are enhancements to accomplish in the near future!
 
 Github: https://github.com/Tsunamins/FauxtelHotels
+Youtube demo: https://youtu.be/G4u_KgDfBYI
 
