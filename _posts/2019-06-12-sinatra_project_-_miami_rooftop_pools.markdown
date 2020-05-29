@@ -77,6 +77,10 @@ I ran into the problem a couple of times while working and found that the most r
 Overall the project was an excellent way to solidify my understanding of sinatra, routes, CRUD, etc and help me to move on successfully to the next section, Rails.  It may have taken some extra time, but to start working with linux and a local environment a little ahead of schedule I can already see will be a big help when I am ready to start working locally on the rails section, no more IDE crashes, among other things.  I already also have become familiarized with some common errors workign in my own environment, so I think the delay on the project to set up the environment will end up speeding me up in the end.
 
 
+Github: https://github.com/Tsunamins/miami_rooftop_pools
+YouTube: https://youtu.be/rlPety4CSeY
+
+
 
 
 
