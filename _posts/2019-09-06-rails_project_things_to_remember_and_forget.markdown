@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "Rails Project: Things to Remember and Forget"
-date:       2019-09-06 23:00:48 +0000
+title:      "Rails Project: Some reference points"
+date:       2019-09-06 19:00:49 -0400
 permalink:  rails_project_things_to_remember_and_forget
 ---
 
